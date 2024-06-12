@@ -1,4 +1,4 @@
-<p align="left">👋 Hi, I'm Bilal Khan<br>👀 I am interested in Computer Science and Mathematics<br>🌱 I’m currently Studying Electronics and communication at IIIT Pune<br>💕 I’m looking to collaborate on AI and Web Devs projects</p>
+<p align="left">👋 Hi, I'm Bilal Khan<br>👀 I am interested in Computer Science and Mathematics<br>🌱 I’m currently Studying Electronics and communication at IIIT Pune<br>💕 I’m looking to collaborate on AI and Web Dev projects</p>
 
 ###
 
