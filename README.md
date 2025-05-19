@@ -7,9 +7,9 @@
 ## 👋 About Me
 
 - 🎓 Electronics and Communication Engineering student at [IIIT Pune](https://www.iiitp.ac.in/)
-- 🔍 Passionate about the intersection of AI, Mathematics, and Web Development
+- 🔍 Passionate about the intersection of AI, Mathematics.
 - 💡 Constantly exploring new technologies and applying them to practical problems
-- 🌱 Currently enhancing my skills in machine learning and full-stack development
+- 🌱 Currently enhancing my skills in machine learning.
 - 💬 Let's discuss algorithms, neural networks, or the latest tech trends!
 
 🔧 Skills & Technologies
