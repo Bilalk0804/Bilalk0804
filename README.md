@@ -99,6 +99,3 @@ Backend & Tools
   <img src="https://komarev.com/ghpvc/?username=bilalkhan&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-<div align="center">
-  <i>⭐️ From [Bilal Khan](https://github.com/bilalkhan)</i>
-</div>
