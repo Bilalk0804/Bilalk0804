@@ -18,7 +18,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="JavaScript"/>
 </div>
 Web Development
 <div align="center">
@@ -30,7 +30,6 @@ Web Development
 AI & Data Science
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/LangChain-%2304A77D?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
@@ -55,10 +54,10 @@ Backend & Tools
 - Created real-time vehicle detection and classification system
 - Implemented data visualization for traffic pattern analysis
 
-### Personal Portfolio Website
-- Designed and developed responsive portfolio using React.js
-- Implemented interactive UI elements and animations
-- Deployed with CI/CD pipeline for seamless updates
+### Housing Price Prediction Model
+- Developed a housing price prediction model using TensorFlow on the Kaggle dataset.
+- Implemented data preprocessing including handling missing values, feature engineering, and data normalization.
+- Utilized Mean Squared Error (MSE) loss function  for model training.ess updates
 
 
 
