@@ -1,4 +1,4 @@
-# Mohd Bilal Khan
+# Bilal Khan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&width=435&lines=Generative+AI;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
