@@ -44,8 +44,8 @@ Backend & Tools
 ## 🚀 Projects
 
 ### AI Research Assistant
-- Built a research assistant using LangChain and FastAPI
-- Implemented RAG architecture for improved document retrieval and Q&A
+- Built a research assistant using LangChain and Streamlit
+- Works with custom Tooling for performing diffrent operations.
 - Optimized for academic paper analysis and summarization
 
 ### Intelligent Traffic System
