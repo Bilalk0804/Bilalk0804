@@ -1,7 +1,7 @@
 # Bilal Khan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&width=435&lines=Generative+and+LLMs;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&width=435&lines=GenerativeAI+and+LLMs;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
