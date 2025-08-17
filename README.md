@@ -63,7 +63,7 @@ Backend & Tools
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://bilalkhan.com/portfolio" target="https://bilalk0804.github.io/">
+  <a href="https://bilalk0804.github.io/" target="https://bilalk0804.github.io/">
     <img src="https://img.shields.io/badge/PORTFOLIO-%23333333?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://bilalkhan.com" target="_blank">
