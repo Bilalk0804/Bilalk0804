@@ -13,7 +13,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║  > Initializing AI Systems...                                 ║
-║  > Loading Neural Networks... ████████████████████ 100%       ║
+║  > Loading Caffeine... ████████████████████ 98%       ║
 ║  > Status: ONLINE | Rank 130/10K+ National Hackathon Winner   ║
 ║  > Current Mission: Leading ₹4.2Cr Government Research Project║
 ╚═══════════════════════════════════════════════════════════════╝
